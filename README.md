@@ -17,7 +17,7 @@ I am a proactive and highly motivated cybersecurity professional focusing on pen
 
 ## 📜 Certifications & Continuous Learning
 * ⏳ **Currently Preparing:** CPTS (HTB Certified Penetration Testing Specialist) 
-* 🏆 **Certifications:** MİLLİSEC Red Team, MİLLİSEC IT Support, crta, crt-id, web-rta
+* 🏆 **Certifications:** MİLLİSEC Red Team, MİLLİSEC IT Support, CRTA, CRT-ID, WEB-RTA.
 * 🚩 **Events:** CIDC 2025 - Hardware Security and Pentesting (Hack the Future 2)
 
 ## 📁 Featured Projects
