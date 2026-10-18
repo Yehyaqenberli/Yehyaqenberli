@@ -29,5 +29,4 @@ I am a proactive and highly motivated cybersecurity professional focusing on pen
 ![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yehyaqenberli&show_icons=true&theme=radical)
 
 ---
-📫 **Contact Me:** yehya.qenberli@gmail.com
-
+📫 **Contact Me:** yahya.qemberov@gmail.com | yehya.qenberli@gmail.com
